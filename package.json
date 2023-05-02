@@ -1,0 +1,25 @@
+{
+  "name": "svg-generator-",
+  "version": "1.0.0",
+  "description": "N/A",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AJChrystall/SVG-GENERATOR-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AJChrystall/SVG-GENERATOR-/issues"
+  },
+  "homepage": "https://github.com/AJChrystall/SVG-GENERATOR-#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
